@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @beckycode, a Frontend developer with 5+ of experience in web development. 
-  My main skills are: JavaScript ES5+, React, CSS, Sass. Others: Wordpress, Git, GitHub.
-  Also, I have experience working with PHP, Laravel, Angular and Android (Java)
-  <br/>
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Vue.js
+- 👋 Hi, I’m @beckycode, a Frontend developer with experience in web development.
+<br/>
+  Since I started my career, I've developed different websites, and systems in different programming languages.
+  I have also experienced different roles such as Back-end developer, mobile developer, and my current role which is Front-end developer.
+  I decided to focus on Front-end development because in this area I can work closely with the design team, and improve UI and UX experience for the programs and systems that I work on. In that way, I feel more satisfy to deliver a product with quality and a friendly user experience.
+<br/>
+   My current stack is based in these technologies: Vue.js, TypeScript, CSS - Sass and Vitest - Vue utils (unit testing). 
+
+<br/>
+<br/>
+- 👀 I’m interested in learning the different concepts and theories about the law of designs to keep updated with new trends, insights related to UI and UX
+<br/>
+- 🌱 I’m currently improving my knowledge in Typescript combined with Vue.js
+<br/>
 - 💞️ I’m looking to collaborate on code communities
+<br/>
 - 📫 You can reach me by email: hi.beckycode@gmail.com
 
 <!---
