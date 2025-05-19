@@ -8,7 +8,7 @@
 
 <br/>
 <br/>
-- 👀 I’m interested in learning the different concepts and theories about the law of designs to keep updated with new trends, insights related to UI and UX
+- 👀 I’m interested in learning more about testing, specially Playwright to improve the testing of my code and support the quality of the products and the operations of the company
 <br/>
 - 🌱 I’m currently improving my knowledge in Typescript combined with Vue.js
 <br/>
